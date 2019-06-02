@@ -1,11 +1,11 @@
-# Introdução à programação Python com Jupyter colaborativo
+# Programação colaborativa com interfce de desenvolvimento e armazenamento na nuvem.
 
-<h3> Começando a linguagem de programação python
+<h3> Introdução à programação Python com Jupyter, GoogleDrive & Colaboratory
 
-## Começando
-Antes de começar a programar vamos aprender como gerenciar os recurso do github e instalar os complementos no google drive.
-Estas instruções tem a finalidade de orientar a utilização dos aqruivos do github no computador local ou no sistema online colaboratory.
-<p> As ferramentas de colaboração e administração de versões de arquivos são importantes para manter organização e cotrole do fluxo de trabalho no desenvolvimeto de aplicações.
+## Disposições gerais
+
+O Python é alinguagem de programação mais difundida entre novos usuários. Sua fácil dedução e linguagem tornam o uso de recursos de outras aplicações e integração com interfaces de desenvolvimento on-line robustas e populares. As instruções abaixo tem a finalidade de orientar a utilização dos aqruivos do github no computador local ou no sistema online colaboratory.
+<p> As ferramentas de colaboração e administração de versões de arquivos são importantes para manter organização e cotrole do fluxo de trabalho no desenvolvimeto de aplicações quando envolve um grupo de pessoas.
   
 ### Pré requisitos
 
