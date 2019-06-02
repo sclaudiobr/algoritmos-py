@@ -1,15 +1,18 @@
 # Introdução à programação Python com Jupyter colaborativo
 
-Este material traz uma série de exercícios introdutórios a linguagem de programação python.
-<p> Antes de começar a programar vamos aprender como gerenciar os recurso do github e instalar os complemento no google drive
+<h3> Começando a linguagem de programação python
 
 ## Começando
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
+Antes de começar a programar vamos aprender como gerenciar os recurso do github e instalar os complementos no google drive.
+Estas instruções tem a finalidade de orientar a utilização dos aqruivos do github no computador local ou no sistema online colaboratory.
+<p> As ferramentas de colaboração e administração de versões de arquivos são importantes para manter organização e cotrole do fluxo de trabalho no desenvolvimeto de aplicações.
+  
 ### Pré requisitos
 
-What things you need to install the software and how to install them
+- Possuir uma conta google no repositório goodle drive,
+- instalar o app "Colaboratory";
+- criar nova pasta ("Algoritmo-py") no Google Drive,
+- copiar os arquivos ".ipyn" para o google drive
 
 ```
 Give examples
