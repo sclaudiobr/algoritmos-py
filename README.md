@@ -1,7 +1,7 @@
 # Introdução à programação Python com Jupyter colaborativo
 
-Este material traz uma série de exercícios introdutórios a linguagem de programação python
-Antes de começar a programar vamos aprender como gerenciar os recurso do github e instalar os complemento no google drive
+Este material traz uma série de exercícios introdutórios a linguagem de programação python.
+<p> Antes de começar a programar vamos aprender como gerenciar os recurso do github e instalar os complemento no google drive
 
 ## Começando
 
