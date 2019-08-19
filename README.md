@@ -22,45 +22,18 @@ Caso não tenha uma conta google, crie uma no endereço : www.gmail.com
 
 ### Instalando o complemento no Google Drive
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
+Novo > mais > mais app
+Buscar Colaboratory
 
 ```
-until finished
+Instalar
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Conectando o GitHub ao Colaboratory
 
-Explain how to run the automated tests for this system
+ - Crie uma pasta no seu Github
+ - escolha a opção salvar cópia no GitHub
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Desenvolvimento
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
@@ -68,25 +41,25 @@ Add additional notes about how to deploy this on a live system
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-## Contributing
+## Contribuindo
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
+## Controle de versões
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
-## Authors
+## Autores
 
 * **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-## License
+## Licensas de uso
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## Agradecimentos
 
 * Hat tip to anyone whose code was used
 * Inspiration
