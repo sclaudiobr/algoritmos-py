@@ -36,12 +36,12 @@ Instalar
 
 ## Autores
 
-* **Claudio Silva** - *Initial work* - [PurpleBooth](https://github.com/sclaudiobr)
+* **Claudio Silva** - *Initial work* - [Link](https://github.com/sclaudiobr)
 
 ## Licensas de uso
 
 Aberto e livre para alterações e adaptações.
 
 ## Agradecimentos
-* Professor Luiz Patric Kayser - [PurpleBooth](https://ufsmpublica.ufsm.br/docente/14648)
+* Professor Luiz Patric Kayser - [Link](https://ufsmpublica.ufsm.br/docente/14648)
 
